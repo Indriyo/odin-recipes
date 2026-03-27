@@ -1,1 +1,1 @@
-# odin-recipes
+This is a practice project file about recipes for The Odin Project. I'm going to be using basic HTML elements to create this project.
